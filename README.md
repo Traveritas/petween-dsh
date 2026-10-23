@@ -1,3 +1,5 @@
+> **本仓库已停止维护并归档。** 本项目原名 `petween`，现已更名为 `petween-dsh`。Petween 已在新仓库 [petween](https://github.com/Traveritas/petween) 重做：跨 agent（Claude Code、Codex 等）的独立桌面宠物，插件化、支持多只宠物。
+
 # Petween
 
 DeepSeek Harness（DSH）Web UI 的宠物插件 —— **一个纸片动画风格的智能体宠物动画中间件**。
@@ -42,7 +44,7 @@ DeepSeek Harness（DSH）Web UI 的宠物插件 —— **一个纸片动画风�
 尚未发布到 npm（`dsh plugin add petween` 暂不可用），从 GitHub 克隆安装：
 
 ```bash
-git clone https://github.com/Traveritas/petween.git
+git clone https://github.com/Traveritas/petween-dsh.git
 cd petween
 pnpm install
 pnpm run build    # 产出 lib/（仓库不含构建产物，安装前必须构建）
